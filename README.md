@@ -1,5 +1,8 @@
 # Frontend Mentor - Intro component with sign up form
 
+https://akhlak-hossain-jim.github.io/intro-component-with-signup-form/ <br>
+https://github.com/Akhlak-Hossain-Jim/intro-component-with-signup-form
+
 ![Design preview for the Intro component with sign up form coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
